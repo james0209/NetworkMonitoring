@@ -1,0 +1,9 @@
+--- usp.br ping statistics ---
+120 packets transmitted, 120 received, 0% packet loss, time 119103ms
+rtt min/avg/max/mdev = 217.505/217.963/221.337/0.597 ms
+--- usp.br ping statistics ---
+120 packets transmitted, 120 received, 0% packet loss, time 119167ms
+rtt min/avg/max/mdev = 217.367/217.961/225.443/1.077 ms
+--- usp.br ping statistics ---
+120 packets transmitted, 120 received, 0% packet loss, time 119085ms
+rtt min/avg/max/mdev = 217.463/218.015/221.593/0.738 ms

@@ -1,0 +1,9 @@
+--- worcester.ac.uk ping statistics ---
+120 packets transmitted, 117 received, 2% packet loss, time 119215ms
+rtt min/avg/max/mdev = 14.711/22.710/43.892/5.741 ms
+--- worcester.ac.uk ping statistics ---
+120 packets transmitted, 113 received, 5% packet loss, time 119264ms
+rtt min/avg/max/mdev = 14.907/22.111/37.860/4.965 ms
+--- worcester.ac.uk ping statistics ---
+120 packets transmitted, 117 received, 2% packet loss, time 119202ms
+rtt min/avg/max/mdev = 14.747/20.410/30.902/3.206 ms

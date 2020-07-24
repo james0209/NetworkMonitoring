@@ -1,0 +1,60 @@
+Fri 24 Jul 04:00:52 BST 2020
+traceroute to ut.ee (193.40.5.73), 30 hops max, 60 byte packets
+ 1  cmp-0-gw.uea.ac.uk (139.222.0.1)  1.228 ms  1.578 ms  1.596 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  3.866 ms  7.013 ms  9.941 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.186 ms  1.198 ms  1.169 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.509 ms  1.341 ms  1.705 ms
+ 5  boundary1-from-pfw.uea.ac.uk (193.62.92.70)  1.249 ms  1.415 ms  1.592 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.291 ms  4.199 ms  4.217 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.210 ms  4.251 ms  4.263 ms
+ 8  ae28.londhx-sbr1.ja.net (146.97.33.17)  7.734 ms  21.875 ms  21.915 ms
+ 9  janet.mx1.lon.uk.geant.net (62.40.124.197)  7.619 ms  7.622 ms  7.523 ms
+10  ae9.mx1.ams.nl.geant.net (62.40.98.128)  14.966 ms  14.841 ms  14.844 ms
+11  ae1.mx1.ham.de.geant.net (62.40.98.61)  21.151 ms  21.148 ms  21.108 ms
+12  ae2.mx1.tal.ee.geant.net (62.40.98.59)  40.713 ms  40.636 ms  40.607 ms
+13  eenet-gw.mx1.tal.ee.geant.net (62.40.124.50)  41.318 ms  41.067 ms  41.000 ms
+14  tln100g.tartu-gw.bb.eenet.ee (193.40.133.6)  44.285 ms  44.354 ms  44.159 ms
+15  sein.ut.ee (193.40.12.10)  44.035 ms  43.942 ms  43.945 ms
+16  www.ut.ee (193.40.5.73)  43.993 ms !X  44.022 ms !X  43.941 ms !X
+
+
+Fri 24 Jul 10:00:53 BST 2020
+traceroute to ut.ee (193.40.5.73), 30 hops max, 60 byte packets
+ 1  cmp-0-gw.uea.ac.uk (139.222.0.1)  1.103 ms  1.612 ms  1.605 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  3.883 ms  6.864 ms  10.560 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.078 ms  1.028 ms  1.027 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.359 ms  1.515 ms  1.791 ms
+ 5  boundary1-from-pfw.uea.ac.uk (193.62.92.70)  1.223 ms  1.605 ms  1.382 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.098 ms  4.341 ms  4.336 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.809 ms  4.708 ms  4.675 ms
+ 8  ae28.londhx-sbr1.ja.net (146.97.33.17)  7.806 ms  7.805 ms  7.801 ms
+ 9  janet.mx1.lon.uk.geant.net (62.40.124.197)  7.711 ms  7.621 ms  7.912 ms
+10  ae9.mx1.ams.nl.geant.net (62.40.98.128)  15.540 ms  15.238 ms  15.131 ms
+11  ae1.mx1.ham.de.geant.net (62.40.98.61)  21.482 ms  21.386 ms  21.447 ms
+12  ae2.mx1.tal.ee.geant.net (62.40.98.59)  40.702 ms  40.746 ms  40.744 ms
+13  eenet-gw.mx1.tal.ee.geant.net (62.40.124.50)  41.111 ms  41.144 ms  41.141 ms
+14  tln100g.tartu-gw.bb.eenet.ee (193.40.133.6)  44.448 ms  44.359 ms  44.428 ms
+15  sein.ut.ee (193.40.12.10)  44.391 ms  43.884 ms  43.895 ms
+16  www.ut.ee (193.40.5.73)  43.940 ms !X  44.167 ms !X  44.121 ms !X
+
+
+Fri 24 Jul 16:00:54 BST 2020
+traceroute to ut.ee (193.40.5.73), 30 hops max, 60 byte packets
+ 1  cmp-0-gw.uea.ac.uk (139.222.0.1)  1.605 ms  1.035 ms  1.562 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  7.764 ms  10.818 ms  16.294 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.075 ms  1.045 ms  1.069 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.353 ms  1.642 ms  1.468 ms
+ 5  boundary1-from-pfw.uea.ac.uk (193.62.92.70)  1.562 ms  1.396 ms  1.217 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.113 ms  4.090 ms  4.112 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.137 ms  4.040 ms  3.996 ms
+ 8  ae28.londhx-sbr1.ja.net (146.97.33.17)  7.417 ms  7.511 ms  7.344 ms
+ 9  janet.mx1.lon.uk.geant.net (62.40.124.197)  7.550 ms  7.559 ms  7.542 ms
+10  ae9.mx1.ams.nl.geant.net (62.40.98.128)  23.766 ms  22.133 ms  21.017 ms
+11  ae1.mx1.ham.de.geant.net (62.40.98.61)  21.295 ms  21.315 ms  21.284 ms
+12  ae2.mx1.tal.ee.geant.net (62.40.98.59)  40.567 ms  40.615 ms  40.505 ms
+13  eenet-gw.mx1.tal.ee.geant.net (62.40.124.50)  40.719 ms  41.126 ms  41.015 ms
+14  tln100g.tartu-gw.bb.eenet.ee (193.40.133.6)  44.187 ms  44.230 ms  43.935 ms
+15  sein.ut.ee (193.40.12.10)  44.069 ms  43.930 ms  43.863 ms
+16  www.ut.ee (193.40.5.73)  43.913 ms !X  49.304 ms !X  49.316 ms !X
+
+

@@ -1,0 +1,18 @@
+
+
+
+--- ut.ee ping statistics ---
+120 packets transmitted, 120 received, 0% packet loss, time 119149ms
+rtt min/avg/max/mdev = 43.614/43.958/49.619/0.900 ms
+--- ut.ee ping statistics ---
+120 packets transmitted, 120 received, 0% packet loss, time 119201ms
+rtt min/avg/max/mdev = 43.560/43.970/50.408/0.953 ms
+--- ut.ee ping statistics ---
+120 packets transmitted, 120 received, 0% packet loss, time 119201ms
+rtt min/avg/max/mdev = 43.633/43.865/45.797/0.365 ms
+--- ut.ee ping statistics ---
+120 packets transmitted, 120 received, 0% packet loss, time 119193ms
+rtt min/avg/max/mdev = 43.597/43.964/51.859/0.857 ms
+--- ut.ee ping statistics ---
+120 packets transmitted, 120 received, 0% packet loss, time 119201ms
+rtt min/avg/max/mdev = 43.539/44.120/70.202/2.470 ms
